@@ -6,7 +6,7 @@ Cài đặt:
 
 [root@vps190651 ~]# yum -y install nano wget perl
 
-[root@vps190651 ~]# wget https://raw.githubusercontent.com/lehieuit/Directadmin-1.53-nulled/master/setup.sh
+[root@vps190651 ~]# wget https://raw.githubusercontent.com/ductue/DirectAdmin/master/setup.sh
 
 [root@vps190651 ~]# chmod +x setup.sh
 
